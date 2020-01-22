@@ -163,6 +163,6 @@
     "@storybook/addon-viewport": "^3.4.8",
     "@storybook/addons": "^3.4.8",
     "redux-devtools-extension": "^2.13.5",
-    "webpack-bundle-analyzer": "^2.13.1"
+    "webpack-bundle-analyzer": "^3.3.2"
   }
 }
