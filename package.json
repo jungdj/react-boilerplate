@@ -5,7 +5,7 @@
   "dependencies": {
     "@storybook/react": "^3.4.8",
     "autoprefixer": "9.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "6.26.3",
     "babel-eslint": "^8.2.6",
     "babel-jest": "23.4.0",
